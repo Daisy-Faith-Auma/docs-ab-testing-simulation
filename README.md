@@ -1,6 +1,6 @@
 # Measuring documentation quality with A/B tests (simulated data)
 
-   Companion code for my Towards Data Science article on measuring whether API docs work, using task completion rate, time to first successful request (TTFSR) and support ticket volume.
+   Companion code for my article on measuring whether API docs work, using task completion rate, time to first successful request (TTFSR) and support ticket volume.
 
    **All data in this repo is simulated.** It was generated to demonstrate the method and does not come from any real company.
 
